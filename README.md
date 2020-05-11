@@ -1,4 +1,5 @@
 This repository contains Java classes, cucumber feature file that test a random dates generator application.
+
 In order to run this test, the following tools must be installed on the machine where the test will be run
 Java,Maven,Cucumber-jvm,git,chrome driver, gecko driver for mac or 32 chrome driver and gecko driver for windows.
 Clone the project by downloading the zip file or run git clone https://github.com/folaAkin/randomDateGenerator
