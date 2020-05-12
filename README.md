@@ -8,3 +8,4 @@
 - The test can be run from the Cucumber Test Runner class by right clicking and run. 
 - To run a specific scenario, the scenario can be tagged with a name of choice and pass this in the tag option of the Test Runner class.
 - The test can also be run from the feature file by right clicking on the feature or to run a specific scenario, right click on the scenario.
+- To view the test report,when the test runs, the reports will be generate in the reports folder.Two reports will be generated,one is in  the cucumber-reports sub folder and the other is in the  cucumber-pretty sub folder.Open .html reports in a browser of choice
